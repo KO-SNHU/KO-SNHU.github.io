@@ -23,10 +23,13 @@ First things first, it is hard to enhance a coding artifact without first knowin
 
 # Software Engineering
 <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/EnhancedGame" target="_blank">
-    <img src="Intrepid Archive.png" alt="Alt text" width="400" height="400">
+    <img src="Intrepid Archive.png" alt="Alt text" width="600" height="400">
 </a>
 
 # Algorithms and Data Structures
+<a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/CoursePlanner/EnhancedCoursePlanner" target="_blank">
+    <img src="CoursePlanner.png" alt="Alt text" width="600" height="400">
+</a>
 
 # Databases
 <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/EnhancedInventoryApp" target="_blank">
