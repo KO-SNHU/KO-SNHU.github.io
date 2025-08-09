@@ -54,6 +54,7 @@ The first artifact, the Text Based Game, was actually one of my first ever compu
   </div>
 
 # Algorithms and Data Structures
+The second artifact, the Course Planner, was another early computer science project for me. As such, the original form this project took did not consider computational complexity at all. I used a vector data structure and vector sorting algorithms which resulted in an overall runtime complexity of O(n). The purpose of this artifact is to read in a datafile of course information, display it alphanumerically, and print information requested by the user. Therefore, I knew there was a way I could significantly reduce the complexity of the runtime. Rather than using a vector sorting algorithm, I implemented an unordered map system to search for the course information stored in the unordered map. This reduced the course lookup logic to O(1) complexity rather than O(n). 
 <div style="display:flex; justify-content:center; gap:20px;">
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/CoursePlanner/OriginalCoursePlanner" target="_blank">
