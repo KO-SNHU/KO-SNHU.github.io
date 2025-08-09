@@ -34,6 +34,7 @@ First things first, it is hard to enhance a coding artifact without first knowin
 # Databases
 <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/EnhancedInventoryApp" target="_blank">
     <img src="InventoryAppPic.png" alt="Alt text" width="300">
+  <figcaption>Click this Picture for the Enhanced Inventory App!</figcaption>
 </a>
 
 # Hello World!
