@@ -8,4 +8,4 @@ Addtional updates to the new Inventory App include the following:
 *	Updated comments to be more readable and maintainable.
 
 # Running the Code!
-I ran this code in Android Studio using a standard Android Phone Emulator to test the app.
+I ran this code in Android Studio with a standard Smartphone Emulator to test the app.
