@@ -40,14 +40,14 @@ The first artifact, the Text Based Game, was actually one of my first ever compu
 <div style="display:flex; justify-content:center; gap:10px;">
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/OriginalGame" target="_blank">
-      <img src="Intrepid Archive Old.png" alt="Alt text">
+      <img src="Intrepid Archive Old.png" alt="Alt text" style="width:100%; height:auto;">
     </a>
     <figcaption>Click this Picture for the Original Text Based Game!</figcaption>  
   </figure>
   
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/EnhancedGame" target="_blank">
-      <img src="Intrepid Archive.png" alt="Alt text">
+      <img src="Intrepid Archive.png" alt="Alt text" style="width:100%; height:auto;">
     </a>
     <figcaption>Click this Picture for the Enhanced Text Based Game!</figcaption>  
   </figure>
