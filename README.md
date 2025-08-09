@@ -52,6 +52,7 @@ The first artifact, the Text Based Game, was actually one of my first ever compu
     <figcaption>Click this Picture for the Enhanced Text Based Game!</figcaption>  
   </figure>
   </div>
+  [Click here to read the narrative detailing the process of enhancing this artifact](CS 499 Artifact One Narrative.docx)
 
 # Algorithms and Data Structures
 The second artifact, the Course Planner, was another early computer science project for me. As such, the original form this project took did not consider computational complexity at all. I used a vector data structure and vector sorting algorithms which resulted in an overall runtime complexity of O(n). The purpose of this artifact is to read in a datafile of course information, display it alphanumerically, and print information requested by the user. Therefore, I knew there was a way I could significantly reduce the complexity of the runtime. Rather than using a vector sorting algorithm, I implemented an unordered map system to search for the course information stored in the unordered map. This reduced the course lookup logic to O(1) complexity rather than O(n). 
@@ -89,6 +90,7 @@ The third artifact, the Inventory App, was a later project in my computer scienc
     <figcaption>Click this Picture for the Enhanced Inventory App!</figcaption>  
   </figure>
   </div>
+  [Click here to read the narrative detailing the process of enhancing this artifact](CS 499 Week Five Narrative.docx)
 
 
 # Additional Work
