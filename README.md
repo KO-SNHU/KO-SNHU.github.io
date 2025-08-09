@@ -1,8 +1,8 @@
 # KO-SNHU.github.io
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KO-SNHU/KO-SNHU.github.io/blob/main/Kristie_OBrien_Picture.jpg">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KO-SNHU/KO-SNHU.github.io/blob/main/Kristie_OBrien_Picture.jpg">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/KO-SNHU/KO-SNHU.github.io/blob/main/Kristie_OBrien_Picture.jpg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KO-SNHU/KO-SNHU.github.io/blob/main/IntroMe.png">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KO-SNHU/KO-SNHU.github.io/blob/main/IntroMe.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/KO-SNHU/KO-SNHU.github.io/blob/main/IntroMe.png">
 </picture>
 
 # Greetings and Salutations!
