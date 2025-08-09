@@ -23,7 +23,7 @@ First things first, it is hard to enhance a coding artifact without first knowin
 
 # Software Engineering
 
-<div style="display:flex; justify-content:center; gap:20px;">
+<div style="display:flex; justify-content:center; gap:10px;">
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/EnhancedInventoryApp" target="_blank">
       <img src="Intrepid Archive Old.png" alt="Alt text" width="1000" height="500">
