@@ -9,6 +9,9 @@
 My name is Kristie O'Brien and it is my honor to have you visit this site! Here you will find what has been my final work in my Bachelor Degree
 of Computer Science at Southern New Hampshire University, or what we students affectionately call our alma mater, SNHU. Over the course of my time here at SNHU, I have obtained two degrees, one in Mathematics and the other in Computer Science.
 
+# Code Review
+<iframe width="560" height="315" src="https://www.youtube.com/embed/x3H3RENZxw8?si=XqqlE4ZE6HTEMiIP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 # Software Engineering
 
 # Algorithms and Data Structures
@@ -21,5 +24,6 @@ of Computer Science at Southern New Hampshire University, or what we students af
   <source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 </picture>
+
 
 
