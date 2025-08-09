@@ -56,11 +56,6 @@ First things first, it is hard to enhance a coding artifact without first knowin
   </figure>
   </div>
 
-
-<a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/CoursePlanner/EnhancedCoursePlanner" target="_blank">
-    <img src="CoursePlanner.png" alt="Alt text" width="700" height="400">
-</a>
-
 # Databases
 <div style="display:flex; justify-content:center; gap:20px;">
   <figure>
