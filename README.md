@@ -22,9 +22,22 @@ First things first, it is hard to enhance a coding artifact without first knowin
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x3H3RENZxw8?si=XqqlE4ZE6HTEMiIP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Software Engineering
-<a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/EnhancedGame" target="_blank">
-    <img src="Intrepid Archive.png" alt="Alt text" width="600" height="400">
-</a>
+
+<div style="display:flex; justify-content:center; gap:20px;">
+  <figure>
+    <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/EnhancedInventoryApp" target="_blank">
+      <img src="Intrepid Archive Old.png" alt="Alt text" width="600" height="400">
+    </a>
+    <figcaption>Click this Picture for the Original Text Based Game!</figcaption>  
+  </figure>
+  
+  <figure>
+    <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/EnhancedGame" target="_blank">
+      <img src="Intrepid Archive.png" alt="Alt text" width="600" height="400">
+    </a>
+    <figcaption>Click this Picture for the Enhanced Text Based Game!</figcaption>  
+  </figure>
+  </div>
 
 # Algorithms and Data Structures
 <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/CoursePlanner/EnhancedCoursePlanner" target="_blank">
@@ -37,14 +50,14 @@ First things first, it is hard to enhance a coding artifact without first knowin
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/EnhancedInventoryApp" target="_blank">
       <img src="Old App.png" alt="Alt text" width="300" height="600">
     </a>
-    <figcaption>Click this Picture for the Enhanced Inventory App!</figcaption>  
+    <figcaption>Click this Picture for the Original Inventory App!</figcaption>  
   </figure>
   
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/OriginalInventoryApp" target="_blank">
       <img src="NewApp.png" alt="Alt text" width="300" height="600">
     </a>
-    <figcaption>Click this Picture for the Original Inventory App!</figcaption>  
+    <figcaption>Click this Picture for the Enhanced Inventory App!</figcaption>  
   </figure>
   </div>
 
