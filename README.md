@@ -22,6 +22,9 @@ First things first, it is hard to enhance a coding artifact without first knowin
 <iframe width="560" height="315" src="https://www.youtube.com/embed/x3H3RENZxw8?si=XqqlE4ZE6HTEMiIP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 # Software Engineering
+<a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/EnhancedGame" target="_blank">
+    <img src="Intrepid Archive.png" alt="Alt text" width="300">
+</a>
 
 # Algorithms and Data Structures
 
