@@ -1,5 +1,7 @@
 # KO-SNHU.github.io
-
+# Greetings and Salutations!
+My name is Kristie O'Brien and it is my honor to have you visit this site! Here you will find what has been my final work in my Bachelor Degree
+of Computer Science at Southern New Hampshire University, or what we students affectionately call our alma mater, SNHU.
 # Hello World!
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
