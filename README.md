@@ -2,7 +2,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="IntroMe.png">
   <source media="(prefers-color-scheme: light)" srcset="IntroMe.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="IntroMe.png" width="300" height="100">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="IntroMe.png">
 </picture>
 
 
