@@ -1,5 +1,9 @@
-# KO-SNHU.github.io
-![Alt text for the image](https://github.com/KO-SNHU/KO-SNHU.github.io/blob/main/IntroMe.png "Optional image title")
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="IntroMe.png">
+  <source media="(prefers-color-scheme: light)" srcset="IntroMe.png">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="IntroMe.png">
+</picture>
 
 
 # Greetings and Salutations!
