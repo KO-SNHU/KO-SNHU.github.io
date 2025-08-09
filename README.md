@@ -1,9 +1,6 @@
 # KO-SNHU.github.io
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KO-SNHU/KO-SNHU.github.io/blob/main/IntroMe.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KO-SNHU/KO-SNHU.github.io/blob/main/IntroMe.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/KO-SNHU/KO-SNHU.github.io/blob/main/IntroMe.png">
-</picture>
+![Alt text for the image](https://github.com/KO-SNHU/KO-SNHU.github.io/blob/main/IntroMe.png "Optional image title")
+
 
 # Greetings and Salutations!
 My name is Kristie O'Brien and it is my honor to have you visit this site! Here you will find what has been my final work in my Bachelor Degree
