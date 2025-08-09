@@ -1,8 +1,1 @@
-# The Course Planner!
-This Course Planner is from Project Two from my CS 300 class. You will see two folders here. The one titled OriginalCoursePlanner contains the old code prior to enhancements when the runtime complexity 
-for looking up courses was still O(n). The one titled EnhancedCoursePlanner contains the enhanced Course Planner project where the coruse lookup functionality is now O(1).
-Addtional updates to the new Course Planner include the following:
-* UserRun function and UserRunTwo function condensed to one function.
-* Comments have been cleaned up and made more reader and writer friendly for enhanced maintainability.
-* An unordered map was used rather than a vector data structure.
 
