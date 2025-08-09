@@ -33,7 +33,7 @@ First things first, it is hard to enhance a coding artifact without first knowin
   
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/EnhancedGame" target="_blank">
-      <img src="Intrepid Archive.png" alt="Alt text" width="600" height="400">
+      <img src="Intrepid Archive.png" alt="Alt text" width="700" height="400">
     </a>
     <figcaption>Click this Picture for the Enhanced Text Based Game!</figcaption>  
   </figure>
@@ -41,7 +41,7 @@ First things first, it is hard to enhance a coding artifact without first knowin
 
 # Algorithms and Data Structures
 <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/CoursePlanner/EnhancedCoursePlanner" target="_blank">
-    <img src="CoursePlanner.png" alt="Alt text" width="600" height="400">
+    <img src="CoursePlanner.png" alt="Alt text" width="700" height="400">
 </a>
 
 # Databases
