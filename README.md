@@ -25,7 +25,10 @@ First things first, it is hard to enhance a coding artifact without first knowin
 
 # Algorithms and Data Structures
 
-# Databases.
+# Databases
+<a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/EnhancedInventoryApp" target="_blank">
+    <img src="InventoryAppPic.png" alt="Alt text" width="300">
+</a>
 
 # Hello World!
 <picture>
