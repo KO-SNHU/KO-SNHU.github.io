@@ -32,10 +32,22 @@ First things first, it is hard to enhance a coding artifact without first knowin
 </a>
 
 # Databases
-<a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/EnhancedInventoryApp" target="_blank">
-    <img src="InventoryAppPic.png" alt="Alt text" width="300">
-  <figcaption>Click this Picture for the Enhanced Inventory App!</figcaption>
-</a>
+<div style="display:flex; justify-content:center; gap:20px;">
+  <figure>
+    <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/EnhancedInventoryApp" target="_blank">
+      <img src="New App.png" alt="Alt text" width="300">
+    </a>
+    <figcaption>Click this Picture for the Enhanced Inventory App!</figcaption>  
+  </figure>
+  
+  <figure>
+    <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/OriginalInventoryApp" target="_blank">
+      <img src="New App.png" alt="Alt text" width="300">
+    </a>
+    <figcaption>Click this Picture for the Original Inventory App!</figcaption>  
+  </figure>
+  </div>
+
 
 # Hello World!
 <picture>
