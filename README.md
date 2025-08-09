@@ -26,14 +26,14 @@ First things first, it is hard to enhance a coding artifact without first knowin
 <div style="display:flex; justify-content:center; gap:20px;">
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/EnhancedInventoryApp" target="_blank">
-      <img src="Intrepid Archive Old.png" alt="Alt text" width="800" height="500">
+      <img src="Intrepid Archive Old.png" alt="Alt text" width="1000" height="500">
     </a>
     <figcaption>Click this Picture for the Original Text Based Game!</figcaption>  
   </figure>
   
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/EnhancedGame" target="_blank">
-      <img src="Intrepid Archive.png" alt="Alt text" width="800" height="500">
+      <img src="Intrepid Archive.png" alt="Alt text" width="1000" height="500">
     </a>
     <figcaption>Click this Picture for the Enhanced Text Based Game!</figcaption>  
   </figure>
