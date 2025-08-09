@@ -82,7 +82,7 @@ First things first, it is hard to enhance a coding artifact without first knowin
   </div>
 
 
-# Hello World!
+# Additional Work
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KO-SNHU/KO-SNHU.github.io/blob/main/IntroMe.png">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/KO-SNHU/KO-SNHU.github.io/blob/main/IntroMe.png">
