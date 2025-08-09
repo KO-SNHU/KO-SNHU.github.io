@@ -38,7 +38,7 @@ To showcase some of the skills mentioned above, I have compiled the artifacts th
 # Software Engineering
 The first artifact, the Text Based Game, was actually one of my first ever computer science projects. In its original form, it was a basic text based game that allowed a user to navigate a map that they could not see to collect a set amount of items in order to defeat a villain located in the map. This was a fun challenge for an early computer science student. However, a new range of complexity could for sure be added and that is what I did. The enhanced Text Based Game now allows the user to choose their difficulty level with the easy level allowing users to see the map and start with a helpful item in their inventory. The hard level is basically the same as the original game, however, there are added complex elements to the base game. These new complex elements include hidden items, items that can negate other items in the user’s inventory, items that can be crafted, and a secret ending that can only be achieved if the user has accomplished certain tasks. These additions allow for a more accessible user experience, which enables the game to reach a wider audience. Furthermore, the coding upgrades include enhanced error handling, more complex dictionaries, and image processing. All of these skills work together to inform a comprehensive software engineering solution to a problem.
 <div style="display:flex; justify-content:center; gap:10px;">
-  <figure>
+  <figure style="max-width:600px; text-align:center;">
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/OriginalGame" target="_blank">
       <img src="Intrepid Archive Old.png" alt="Alt text" style="width:100%; height:auto;">
     </a>
