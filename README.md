@@ -68,7 +68,7 @@ This artifact is meant to specifically relate to Course Outcome Number Three, wh
 <div style="display:flex; justify-content:center; gap:20px;">
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/CoursePlanner/OriginalCoursePlanner" target="_blank">
-      <img src="Old Course Planner.png" alt="Shows the main menu for the original course planner" width="700" height="400">
+      <img src="ImagesForPages/Old Course Planner.png" alt="Shows the main menu for the original course planner" width="700" height="400">
     </a>
     <figcaption>Click this Picture for the Original Course Planner!</figcaption>  
   </figure>
