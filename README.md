@@ -47,14 +47,14 @@ Additionally, this artifact also meets the Course Outcome Number Four, which sta
 <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
   <figure style="text-align:center;">
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/OriginalGame" target="_blank">
-      <img src="Intrepid Archive Old.png" alt="Shows an image containing lines of text that explain the details of a game." style="max-width:100%; width:700px; height:auto;">
+      <img src="ImagesForPages/Intrepid Archive Old.png" alt="Shows an image containing lines of text that explain the details of a game." style="max-width:100%; width:700px; height:auto;">
     </a>
     <figcaption>Click this Picture for the Original Text Based Game!</figcaption>  
   </figure>
   
   <figure style="text-align:center;">
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/EnhancedGame" target="_blank">
-      <img src="Intrepid Archive.png" alt="Shows an image containing lines of text that explain the details of a game" style="max-width:100%; width:700px; height:auto;">
+      <img src="ImagesForPages/Intrepid Archive.png" alt="Shows an image containing lines of text that explain the details of a game" style="max-width:100%; width:700px; height:auto;">
     </a>
     <figcaption>Click this Picture for the Enhanced Text Based Game!</figcaption>  
   </figure>
@@ -75,7 +75,7 @@ This artifact is meant to specifically relate to Course Outcome Number Three, wh
   
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/CoursePlanner/EnhancedCoursePlanner" target="_blank">
-      <img src="New Course Planner.png" alt="Shows the main menu for the enhanced course planner." width="700" height="400">
+      <img src="ImagesForPages/New Course Planner.png" alt="Shows the main menu for the enhanced course planner." width="700" height="400">
     </a>
     <figcaption>Click this Picture for the Enhanced Course Planner!</figcaption>  
   </figure>
@@ -89,14 +89,14 @@ This artifact specifically is meant to address Course Outcome Number Five, which
 <div style="display:flex; justify-content:center; gap:20px;">
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/OriginalInventoryApp" target="_blank">
-      <img src="Old App.png" alt="Shows the login screen for the original Inventory App." width="300" height="600">
+      <img src="ImagesForPages/Old App.png" alt="Shows the login screen for the original Inventory App." width="300" height="600">
     </a>
     <figcaption>Click this Picture for the Original Inventory App!</figcaption>  
   </figure>
   
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/EnhancedInventoryApp" target="_blank">
-      <img src="NewApp.png" alt="Shows the login screen for the enhanced Inventory App." width="300" height="600">
+      <img src="ImagesForPages/NewApp.png" alt="Shows the login screen for the enhanced Inventory App." width="300" height="600">
     </a>
     <figcaption>Click this Picture for the Enhanced Inventory App!</figcaption>  
   </figure>
