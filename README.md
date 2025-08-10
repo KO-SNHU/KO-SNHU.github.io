@@ -3,7 +3,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="IntroMe.png">
   <source media="(prefers-color-scheme: light)" srcset="IntroMe.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="IntroMe.png">
+  <img alt="Shows an bright and colorful background similar to fiberoptics with a banner containing the name Kristie O'Brien and the text Bachelor Degree in Computer Science and Bachelor Degree in Mathematics." src="IntroMe.png">
 </picture>
 
 
@@ -40,14 +40,14 @@ The first artifact, the Text Based Game, was actually one of my first ever compu
 <div style="display:flex; justify-content:center; gap:10px; flex-wrap:wrap;">
   <figure style="text-align:center;">
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/OriginalGame" target="_blank">
-      <img src="Intrepid Archive Old.png" alt="Alt text" style="max-width:100%; width:700px; height:auto;">
+      <img src="Intrepid Archive Old.png" alt="Shows an image containing lines of text that explain the details of a game." style="max-width:100%; width:700px; height:auto;">
     </a>
     <figcaption>Click this Picture for the Original Text Based Game!</figcaption>  
   </figure>
   
   <figure style="text-align:center;">
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/EnhancedGame" target="_blank">
-      <img src="Intrepid Archive.png" alt="Alt text" style="max-width:100%; width:700px; height:auto;">
+      <img src="Intrepid Archive.png" alt="Shows an image containing lines of text that explain the details of a game" style="max-width:100%; width:700px; height:auto;">
     </a>
     <figcaption>Click this Picture for the Enhanced Text Based Game!</figcaption>  
   </figure>
@@ -59,14 +59,14 @@ The second artifact, the Course Planner, was another early computer science proj
 <div style="display:flex; justify-content:center; gap:20px;">
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/CoursePlanner/OriginalCoursePlanner" target="_blank">
-      <img src="Old Course Planner.png" alt="Alt text" width="700" height="400">
+      <img src="Old Course Planner.png" alt="Shows the main menu for the original course planner" width="700" height="400">
     </a>
     <figcaption>Click this Picture for the Original Course Planner!</figcaption>  
   </figure>
   
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/CoursePlanner/EnhancedCoursePlanner" target="_blank">
-      <img src="New Course Planner.png" alt="Alt text" width="700" height="400">
+      <img src="New Course Planner.png" alt="Shows the main menu for the enhanced course planner." width="700" height="400">
     </a>
     <figcaption>Click this Picture for the Enhanced Course Planner!</figcaption>  
   </figure>
@@ -78,14 +78,14 @@ The third artifact, the Inventory App, was a later project in my computer scienc
 <div style="display:flex; justify-content:center; gap:20px;">
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/OriginalInventoryApp" target="_blank">
-      <img src="Old App.png" alt="Alt text" width="300" height="600">
+      <img src="Old App.png" alt="Shows the login screen for the original Inventory App." width="300" height="600">
     </a>
     <figcaption>Click this Picture for the Original Inventory App!</figcaption>  
   </figure>
   
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/EnhancedInventoryApp" target="_blank">
-      <img src="NewApp.png" alt="Alt text" width="300" height="600">
+      <img src="NewApp.png" alt="Shows the login screen for the enhanced Inventory App." width="300" height="600">
     </a>
     <figcaption>Click this Picture for the Enhanced Inventory App!</figcaption>  
   </figure>
@@ -94,11 +94,6 @@ The third artifact, the Inventory App, was a later project in my computer scienc
 
 
 # Additional Work
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/KO-SNHU/KO-SNHU.github.io/blob/main/IntroMe.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/KO-SNHU/KO-SNHU.github.io/blob/main/IntroMe.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/KO-SNHU/KO-SNHU.github.io/blob/main/IntroMe.png">
-</picture>
 
 
 
