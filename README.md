@@ -1,9 +1,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="IntroMe.png">
-  <source media="(prefers-color-scheme: light)" srcset="IntroMe.png">
-  <img alt="Shows an bright and colorful background similar to fiberoptics with a banner containing the name Kristie O'Brien and the text Bachelor Degree in Computer Science and Bachelor Degree in Mathematics." src="IntroMe.png">
+  <source media="(prefers-color-scheme: dark)" srcset="ImagesForPages/IntroMe.png">
+  <source media="(prefers-color-scheme: light)" srcset="ImagesForPages/IntroMe.png">
+  <img alt="Shows an bright and colorful background similar to fiberoptics with a banner containing the name Kristie O'Brien and the text Bachelor Degree in Computer Science and Bachelor Degree in Mathematics." src="ImagesForPages/IntroMe.png">
 </picture>
 
 
