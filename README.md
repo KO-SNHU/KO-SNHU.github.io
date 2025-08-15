@@ -61,6 +61,7 @@ Additionally, this artifact also meets the Course Outcome Number Four, which sta
   </figure>
   </div>
   [Click here to read the narrative detailing the process of enhancing this artifact](CS 499 Artifact One Narrative.docx)
+  https://github.com/KO-SNHU/KO-SNHU.github.io/blob/91ef4ad3622b9bf0371eb056b1721e219b3157f7/InventoryAndroidApp/CS%20499%20Week%20Five%20Narrative.docx
 
 # Algorithms and Data Structures
 The second artifact, the Course Planner, was another early computer science project for me. As such, the original form this project took did not consider computational complexity at all. I used a vector data structure and vector sorting algorithms which resulted in an overall runtime complexity of O(n). The purpose of this artifact is to read in a datafile of course information, display it alphanumerically, and print information requested by the user. Therefore, I knew there was a way I could significantly reduce the complexity of the runtime. Rather than using a vector sorting algorithm, I implemented an unordered map system to search for the course information stored in the unordered map. This reduced the course lookup logic to O(1) complexity rather than O(n).
