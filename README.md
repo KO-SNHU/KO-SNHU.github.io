@@ -62,8 +62,8 @@ Additionally, this artifact also meets the Course Outcome Number Four, which sta
   </div>
 
   <figure style="text-align:center;">
-    <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/EnhancedGame" target="_blank">
-      <img src="ImagesForPages/Artifact One Narrative Pic.png" alt="Shows an image containing lines of text that explain the details of a game" style="max-width:100%; width:700px; height:auto;">
+    <a href="TextBasedAdventureGame/CS 499 Artifact One Narrative.docx" target="_blank">
+      <img src="ImagesForPages/Artifact One Narrative Pic.png" alt="Shows an image containing the beginning of a word document." style="max-width:100%; width:700px; height:auto;">
     </a>
     <figcaption>Click this picture to download the narrative detailing the process of enhancing this artifact!</figcaption>  
   </figure>
@@ -79,20 +79,20 @@ This artifact is meant to specifically relate to Course Outcome Number Three, wh
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/CoursePlanner/OriginalCoursePlanner" target="_blank">
       <img src="ImagesForPages/Old Course Planner.png" alt="Shows the main menu for the original course planner" width="700" height="400">
     </a>
-    <figcaption>Click this Picture for the Original Course Planner!</figcaption>  
+    <figcaption>Click this Picture to Go to the Code for the Original Course Planner!</figcaption>  
   </figure>
   
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/CoursePlanner/EnhancedCoursePlanner" target="_blank">
       <img src="ImagesForPages/New Course Planner.png" alt="Shows the main menu for the enhanced course planner." width="700" height="400">
     </a>
-    <figcaption>Click this Picture for the Enhanced Course Planner!</figcaption>  
+    <figcaption>Click this Picture to Go to the Code for the Enhanced Course Planner!</figcaption>  
   </figure>
   </div>
 
   <figure style="text-align:center;">
-    <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/EnhancedGame" target="_blank">
-      <img src="ImagesForPages/Artifact Two Narrative Pic.png" alt="Shows an image containing lines of text that explain the details of a game" style="max-width:100%; width:700px; height:auto;">
+    <a href="CoursePlanner/CS 499 Milestone Three Narrative.docx" target="_blank">
+      <img src="ImagesForPages/Artifact Two Narrative Pic.png" alt="Shows an image containing the beginning of a word document." style="max-width:100%; width:700px; height:auto;">
     </a>
     <figcaption>Click this picture to download the narrative detailing the process of enhancing this artifact!</figcaption>  
   </figure>
@@ -111,20 +111,20 @@ This artifact specifically is meant to address Course Outcome Number Five, which
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/OriginalInventoryApp" target="_blank">
       <img src="ImagesForPages/Old App.png" alt="Shows the login screen for the original Inventory App." width="300" height="600">
     </a>
-    <figcaption>Click this Picture for the Original Inventory App!</figcaption>  
+    <figcaption>Click this Picture to Go to the Code for the Original Inventory App!</figcaption>  
   </figure>
   
   <figure>
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/InventoryAndroidApp/EnhancedInventoryApp" target="_blank">
       <img src="ImagesForPages/NewApp.png" alt="Shows the login screen for the enhanced Inventory App." width="300" height="600">
     </a>
-    <figcaption>Click this Picture for the Enhanced Inventory App!</figcaption>  
+    <figcaption>Click this Picture to Go to the Code for the Enhanced Inventory App!</figcaption>  
   </figure>
   </div>
   
    <figure style="text-align:center;">
     <a href="InventoryAndroidApp/CS 499 Week Five Narrative.docx" target="_blank">
-      <img src="ImagesForPages/Artifact Three Narrative.png" alt="Shows an image containing lines of text that explain the details of a game" style="max-width:100%; width:700px; height:auto;">
+      <img src="ImagesForPages/Artifact Three Narrative.png" alt="Shows an image of a word document beginning." style="max-width:100%; width:700px; height:auto;">
     </a>
     <figcaption>Click this picture to download the narrative detailing the process of enhancing this artifact!</figcaption>  
   </figure>
