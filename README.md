@@ -81,7 +81,7 @@ This artifact is meant to specifically relate to Course Outcome Number Three, wh
     <figcaption>Click this Picture for the Enhanced Course Planner!</figcaption>  
   </figure>
   </div>
-[Click here to read the narrative detailing the process of enhancing this artifact](CS 499 Milestone Three Narrative.docx)
+[Click here to read the narrative detailing the process of enhancing this artifact](CoursePlanner/CS 499 Milestone Three Narrative.docx)
 
 # Databases
 The third artifact, the Inventory App, was a later project in my computer science program. As such, it had many of the key foundations of a strong code. However, I completed this course on Application Development prior to my Secure Coding class. Therefore, this app did not implement security features. The purpose of the Inventory App is for users to be able to create an account with unique login credentials, login with these credentials, see their specific inventory, and adjust that inventory as needed. While the app functioned perfectly well originally, it did not include any security features on the passwords of the users. This is a major design flaw should a breach occur. Should someone obtain the user credentials list, if the passwords are not encrypted, a malicious attacker would have free access to that information. Encrypting the passwords would provide an additional layer of security. Furthermore, the database used for the inventory and user information is an SQLite database. As such, SQL queries are used extensively throughout this program. In its original form, there were no protections against SQL Injection attacks. To remedy these issues, I include SHA encryption on user passwords and regex pattern detection to stop potential tautologies in SQL queries.
