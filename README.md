@@ -63,7 +63,7 @@ Additionally, this artifact also meets the Course Outcome Number Four, which sta
 
   <figure style="text-align:center;">
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/EnhancedGame" target="_blank">
-      <img src="ImagesForPages/ImagesForPages/Artifact One Narrative Pic.png" alt="Shows an image containing lines of text that explain the details of a game" style="max-width:100%; width:700px; height:auto;">
+      <img src="ImagesForPages/Artifact One Narrative Pic.png" alt="Shows an image containing lines of text that explain the details of a game" style="max-width:100%; width:700px; height:auto;">
     </a>
     <figcaption>Click this picture to download the narrative detailing the process of enhancing this artifact!</figcaption>  
   </figure>
