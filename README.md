@@ -50,18 +50,25 @@ Additionally, this artifact also meets the Course Outcome Number Four, which sta
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/OriginalGame" target="_blank">
       <img src="ImagesForPages/Intrepid Archive Old.png" alt="Shows an image containing lines of text that explain the details of a game." style="max-width:100%; width:700px; height:auto;">
     </a>
-    <figcaption>Click this Picture for the Original Text Based Game!</figcaption>  
+    <figcaption>Click this Picture to go to the Code the Original Text Based Game!</figcaption>  
   </figure>
   
   <figure style="text-align:center;">
     <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/EnhancedGame" target="_blank">
       <img src="ImagesForPages/Intrepid Archive.png" alt="Shows an image containing lines of text that explain the details of a game" style="max-width:100%; width:700px; height:auto;">
     </a>
-    <figcaption>Click this Picture for the Enhanced Text Based Game!</figcaption>  
+    <figcaption>Click this Picture to Go to the Code for the Enhanced Text Based Game!</figcaption>  
   </figure>
   </div>
-  [Click here to read the narrative detailing the process of enhancing this artifact](CS 499 Artifact One Narrative.docx)
- [If the video is not working properly, click here to go to the Narrative] https://github.com/KO-SNHU/KO-SNHU.github.io/blob/fccf9cf7ee8eb410b4999f3b98d1976f8f02845d/InventoryAndroidApp/CS%20499%20Week%20Five%20Narrative.docx
+
+  <figure style="text-align:center;">
+    <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/EnhancedGame" target="_blank">
+      <img src="ImagesForPages/ImagesForPages/Artifact One Narrative Pic.png" alt="Shows an image containing lines of text that explain the details of a game" style="max-width:100%; width:700px; height:auto;">
+    </a>
+    <figcaption>Click this picture to download the narrative detailing the process of enhancing this artifact!</figcaption>  
+  </figure>
+  </div>
+ 
 
 # Algorithms and Data Structures
 The second artifact, the Course Planner, was another early computer science project for me. As such, the original form this project took did not consider computational complexity at all. I used a vector data structure and vector sorting algorithms which resulted in an overall runtime complexity of O(n). The purpose of this artifact is to read in a datafile of course information, display it alphanumerically, and print information requested by the user. Therefore, I knew there was a way I could significantly reduce the complexity of the runtime. Rather than using a vector sorting algorithm, I implemented an unordered map system to search for the course information stored in the unordered map. This reduced the course lookup logic to O(1) complexity rather than O(n).
@@ -82,7 +89,18 @@ This artifact is meant to specifically relate to Course Outcome Number Three, wh
     <figcaption>Click this Picture for the Enhanced Course Planner!</figcaption>  
   </figure>
   </div>
-[Click here to read the narrative detailing the process of enhancing this artifact](CoursePlanner/CS 499 Milestone Three Narrative.docx)
+
+  <figure style="text-align:center;">
+    <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/EnhancedGame" target="_blank">
+      <img src="ImagesForPages/Artifact Two Narrative Pic.png" alt="Shows an image containing lines of text that explain the details of a game" style="max-width:100%; width:700px; height:auto;">
+    </a>
+    <figcaption>Click this picture to download the narrative detailing the process of enhancing this artifact!</figcaption>  
+  </figure>
+  </div>
+
+
+  
+
 
 # Databases
 The third artifact, the Inventory App, was a later project in my computer science program. As such, it had many of the key foundations of a strong code. However, I completed this course on Application Development prior to my Secure Coding class. Therefore, this app did not implement security features. The purpose of the Inventory App is for users to be able to create an account with unique login credentials, login with these credentials, see their specific inventory, and adjust that inventory as needed. While the app functioned perfectly well originally, it did not include any security features on the passwords of the users. This is a major design flaw should a breach occur. Should someone obtain the user credentials list, if the passwords are not encrypted, a malicious attacker would have free access to that information. Encrypting the passwords would provide an additional layer of security. Furthermore, the database used for the inventory and user information is an SQLite database. As such, SQL queries are used extensively throughout this program. In its original form, there were no protections against SQL Injection attacks. To remedy these issues, I include SHA encryption on user passwords and regex pattern detection to stop potential tautologies in SQL queries.
@@ -103,7 +121,14 @@ This artifact specifically is meant to address Course Outcome Number Five, which
     <figcaption>Click this Picture for the Enhanced Inventory App!</figcaption>  
   </figure>
   </div>
-  [Click here to read the narrative detailing the process of enhancing this artifact](CS 499 Week Five Narrative.docx)
+  
+   <figure style="text-align:center;">
+    <a href="https://github.com/KO-SNHU/KO-SNHU.github.io/tree/main/TextBasedAdventureGame/EnhancedGame" target="_blank">
+      <img src="ImagesForPages/Artifact Three Narrative.png" alt="Shows an image containing lines of text that explain the details of a game" style="max-width:100%; width:700px; height:auto;">
+    </a>
+    <figcaption>Click this picture to download the narrative detailing the process of enhancing this artifact!</figcaption>  
+  </figure>
+  </div>
 
 
 # Additional Work
