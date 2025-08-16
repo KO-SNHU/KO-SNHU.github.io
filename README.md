@@ -34,7 +34,7 @@ In this video I go over the following key criteria to evaluate how well the exis
 * Loops and Branches
 * Defensive Programming
 
-  <figure>
+  <figure style="text-align:left;">
     <a href="https://www.youtube.com/watch?v=x3H3RENZxw8" target="_blank">
       <img src="ImagesForPages/YouTube Video Pic.png" alt="Shows an image containing a YouTube video." style="max-width:100%; width:700px; height:auto;">
     </a>
