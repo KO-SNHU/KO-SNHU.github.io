@@ -42,8 +42,12 @@ In this video I go over the following key criteria to evaluate how well the exis
   </figure>
   [If the video is not working properly, click here to go to the YouTube posting](https://www.youtube.com/watch?v=x3H3RENZxw8)
 
-[Click here for the video transcript](CS 499 Script Document.docx)
-
+  <figure style="text-align:center;">
+    <a href="CS 499 Script Document.docx" target="_blank">
+      <img src="ImagesForPages/Code Review Script.png" alt="Shows an image containing the beginning of a word document." style="max-width:100%; width:700px; height:auto;">
+    </a>
+    <figcaption>Click this picture to download the narrative detailing the process of enhancing this artifact!</figcaption>  
+  </figure>
 
 # Software Engineering
 The first artifact, the Text Based Game, was actually one of my first ever computer science projects. In its original form, it was a basic text-based game that allowed a user to navigate a map that they could not see to collect a set number of items in order to defeat a villain located in the map. This was a fun challenge for an early computer science student. However, a new range of complexity could certainly be added and that is what I did. The enhanced Text Based Game now allows the user to choose their difficulty level with the easy level allowing users to see the map and start with a helpful item in their inventory. The hard level is basically the same as the original game, however, there are added complex elements to the base game. These new complex elements include hidden items, items that can negate other items in the user’s inventory, items that can be crafted, and a secret ending that can only be achieved if the user has accomplished certain tasks. These additions allow for more accessible user experience, which enables the game to reach a wider audience. Furthermore, the coding upgrades include enhanced error handling, more complex dictionaries, and image processing. All of these skills work together to provide a comprehensive software engineering solution to a problem.
