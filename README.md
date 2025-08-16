@@ -105,7 +105,7 @@ This artifact is meant to specifically relate to Course Outcome Number Three, wh
     </a>
     <figcaption>Click this picture to download the narrative detailing the process of enhancing this artifact!</figcaption>  
   </figure>
-  </div>
+  
 
 
   
@@ -137,7 +137,7 @@ This artifact specifically is meant to address Course Outcome Number Five, which
     </a>
     <figcaption>Click this picture to download the narrative detailing the process of enhancing this artifact!</figcaption>  
   </figure>
-  </div>
+
 
 
 # Additional Work
