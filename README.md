@@ -34,7 +34,7 @@ In this video I go over the following key criteria to evaluate how well the exis
 * Loops and Branches
 * Defensive Programming
 
-  <figure style="text-align:center;">
+  <figure>
     <a href="https://www.youtube.com/watch?v=x3H3RENZxw8" target="_blank">
       <img src="ImagesForPages/YouTube Video Pic.png" alt="Shows an image containing a YouTube video." style="max-width:100%; width:700px; height:auto;">
     </a>
@@ -42,7 +42,7 @@ In this video I go over the following key criteria to evaluate how well the exis
   </figure>
   [If the video is not working properly, click here to go to the YouTube posting](https://www.youtube.com/watch?v=x3H3RENZxw8)
 
-  <figure style="text-align:center;">
+  <figure>
     <a href="CS 499 Script Document.docx" target="_blank">
       <img src="ImagesForPages/Code Review Script.png" alt="Shows an image containing the beginning of a word document." style="max-width:100%; width:700px; height:auto;">
     </a>
