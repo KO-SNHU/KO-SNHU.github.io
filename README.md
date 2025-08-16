@@ -142,9 +142,9 @@ This artifact specifically is meant to address Course Outcome Number Five, which
 
 # Additional Work
 The above work is not the limit to the scope of work I have done in the field of Computer Science. During the course of my degree, I also completed two internships at the NASA Glenn Research Center. For additional examples of my work, please see the following papers.
-[](https://ntrs.nasa.gov/api/citations/20240010720/downloads/TM-20240010720.pdf)
+[For additional examples of my work in Computer Science, click here!](https://ntrs.nasa.gov/api/citations/20240010720/downloads/TM-20240010720.pdf)
 
-[](https://ntrs.nasa.gov/api/citations/20240011691/downloads/TM-20240011691.pdf)
+[For additional examples of my work in Computer Science, click here!](https://ntrs.nasa.gov/api/citations/20240011691/downloads/TM-20240011691.pdf)
 
 
 
