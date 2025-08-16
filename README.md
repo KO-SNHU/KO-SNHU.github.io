@@ -34,10 +34,16 @@ In this video I go over the following key criteria to evaluate how well the exis
 * Loops and Branches
 * Defensive Programming
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/x3H3RENZxw8?si=XqqlE4ZE6HTEMiIP" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+  <figure style="text-align:center;">
+    <a href="https://www.youtube.com/watch?v=x3H3RENZxw8" target="_blank">
+      <img src="ImagesForPages/YouTube Video Pic.png" alt="Shows an image containing a YouTube video." style="max-width:100%; width:700px; height:auto;">
+    </a>
+    <figcaption>Click this picture to go to the Code Review Video</figcaption>  
+  </figure>
+  [If the video is not working properly, click here to go to the YouTube posting](https://www.youtube.com/watch?v=x3H3RENZxw8)
+
 [Click here for the video transcript](CS 499 Script Document.docx)
 
-[If the video is not working properly, click here to go to the YouTube posting](https://www.youtube.com/watch?v=x3H3RENZxw8)
 
 # Software Engineering
 The first artifact, the Text Based Game, was actually one of my first ever computer science projects. In its original form, it was a basic text-based game that allowed a user to navigate a map that they could not see to collect a set number of items in order to defeat a villain located in the map. This was a fun challenge for an early computer science student. However, a new range of complexity could certainly be added and that is what I did. The enhanced Text Based Game now allows the user to choose their difficulty level with the easy level allowing users to see the map and start with a helpful item in their inventory. The hard level is basically the same as the original game, however, there are added complex elements to the base game. These new complex elements include hidden items, items that can negate other items in the user’s inventory, items that can be crafted, and a secret ending that can only be achieved if the user has accomplished certain tasks. These additions allow for more accessible user experience, which enables the game to reach a wider audience. Furthermore, the coding upgrades include enhanced error handling, more complex dictionaries, and image processing. All of these skills work together to provide a comprehensive software engineering solution to a problem.
@@ -67,8 +73,7 @@ Additionally, this artifact also meets the Course Outcome Number Four, which sta
     </a>
     <figcaption>Click this picture to download the narrative detailing the process of enhancing this artifact!</figcaption>  
   </figure>
-  </div>
- 
+
 
 # Algorithms and Data Structures
 The second artifact, the Course Planner, was another early computer science project for me. As such, the original form this project took did not consider computational complexity at all. I used a vector data structure and vector sorting algorithms which resulted in an overall runtime complexity of O(n). The purpose of this artifact is to read in a datafile of course information, display it alphanumerically, and print information requested by the user. Therefore, I knew there was a way I could significantly reduce the complexity of the runtime. Rather than using a vector sorting algorithm, I implemented an unordered map system to search for the course information stored in the unordered map. This reduced the course lookup logic to O(1) complexity rather than O(n).
